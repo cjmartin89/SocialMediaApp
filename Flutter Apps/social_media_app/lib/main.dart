@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:social_media_app/auth/auth.dart';
-import 'package:social_media_app/auth/login_or_register.dart';
 import 'package:social_media_app/theme/dark_mode.dart';
 import 'package:social_media_app/theme/light_mode.dart';
 import 'package:social_media_app/firebase_options.dart';
